@@ -1,0 +1,66 @@
+[
+    {
+        "name": "iPhone 14 Pro",
+        "price": 999,
+        "featured": true,
+        "rating": 4.8,
+        "createdAt": "2023-07-01T10:30:00Z",
+        "company": "apple"
+    },
+    {
+        "name": "Samsung Galaxy S23",
+        "price": 799,
+        "featured": false,
+        "rating": 4.6,
+        "createdAt": "2023-07-02T11:00:00Z",
+        "company": "samsung"
+    },
+    {
+        "name": "Realme GT Neo 3",
+        "price": 499,
+        "featured": true,
+        "rating": 4.7,
+        "createdAt": "2023-07-03T12:30:00Z",
+        "company": "realme"
+    },
+    {
+        "name": "Xiaomi Mi 11 Ultra",
+        "price": 699,
+        "featured": false,
+        "rating": 4.5,
+        "createdAt": "2023-07-04T13:45:00Z",
+        "company": "xiaomi"
+    },
+    {
+        "name": "Apple Watch Series 8",
+        "price": 399,
+        "featured": true,
+        "rating": 4.9,
+        "createdAt": "2023-07-05T14:20:00Z",
+        "company": "apple"
+    },
+    {
+        "name": "Samsung Galaxy Watch 5",
+        "price": 349,
+        "featured": false,
+        "rating": 4.6,
+        "createdAt": "2023-07-06T15:10:00Z",
+        "company": "samsung"
+    },
+    {
+        "name": "Realme Watch S",
+        "price": 79,
+        "featured": true,
+        "rating": 4.3,
+        "createdAt": "2023-07-07T16:05:00Z",
+        "company": "realme"
+    },
+    {
+        "name": "Xiaomi Mi Band 6",
+        "price": 49,
+        "featured": false,
+        "rating": 4.4,
+        "createdAt": "2023-07-08T17:25:00Z",
+        "company": "xiaomi"
+    }
+]
